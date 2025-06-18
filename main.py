@@ -1,3 +1,4 @@
+import os
 from aiogram import Bot, Dispatcher, types, executor
 from config import BOT_TOKEN, ADMIN_ID, LOG_CHANNEL_ID
 from pymongo import MongoClient
